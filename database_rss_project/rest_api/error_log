@@ -1,0 +1,208 @@
+[19-Jun-2019 23:03:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:03:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:03:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:03:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:05:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[19-Jun-2019 23:06:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[20-Jun-2019 16:56:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'admin'@'localhost' (using password: NO) in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:16
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(16): PDO->__construct('mysql:host=loca...', 'admin', '')
+#1 /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php(11): API->database_connection()
+#2 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(7): API->__construct()
+#3 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 16
+[20-Jun-2019 18:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:218
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('8')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 218
+[20-Jun-2019 18:36:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:218
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('4')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 218
+[20-Jun-2019 18:37:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:218
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('5')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 218
+[20-Jun-2019 18:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:218
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('7')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 218
+[21-Jun-2019 23:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:218
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('11')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 218
+[22-Jun-2019 09:19:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:218
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('14')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 218
+[22-Jun-2019 11:29:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 53
+[22-Jun-2019 16:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:294
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('17')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 294
+[22-Jun-2019 16:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function deleteChannels() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:297
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(36): API->delete('18')
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 297
+[22-Jun-2019 17:01:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 53
+[22-Jun-2019 17:06:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:08:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:10:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:13:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:20:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:40:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:42:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:43:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 39
+[22-Jun-2019 17:58:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 42
+[22-Jun-2019 18:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:70
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 70
+[22-Jun-2019 18:06:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:70
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 70
+[22-Jun-2019 21:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_age() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:36
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 36
+[22-Jun-2019 21:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_age() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:36
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 36
+[22-Jun-2019 21:57:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_age() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:36
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 36
+[22-Jun-2019 21:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_age() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:36
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 36
+[22-Jun-2019 21:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_age() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:36
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 36
+[22-Jun-2019 22:02:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_age() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:36
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 36
+[22-Jun-2019 22:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function check_age() in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php:36
+Stack trace:
+#0 /home3/saajanali/public_html/rss/database_rss_project/rest_api/test_api.php(48): API->add_all_feed()
+#1 {main}
+  thrown in /home3/saajanali/public_html/rss/database_rss_project/rest_api/Api.php on line 36
